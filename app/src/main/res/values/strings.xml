@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Snack\'n\'Stretch</string>
+    <string name="work_min">Work (min)</string>
+    <string name="break_min">Break (min)</string>
+    <string name="constraints">Constraints</string>
+    <string name="battery_not_low">Battery Not Low</string>
+    <string name="only_when_charging">Only When Charging</string>
+    <string name="schedule_session">Schedule Session</string>
+    <string name="cancel_session">Cancel Session</string>
+    <string name="sub_title"><![CDATA[Keep you fueled and flexible with quick snack & stretch reminders.]]></string>
+    <string name="time_for_a_break">Time for a break!</string>
+    <string name="break_over">Break over - back to work!</string>
+    <string name="session_scheduled_m_work_m_break">Session scheduled: %1$dm work, %2$dm break</string>
+    <string name="key_work_time">work_time</string>
+    <string name="key_break_time">break_time</string>
+    <string name="key_is_charging">is_charging</string>
+    <string name="key_is_battery_low">is_battery_low</string>
+    <string name="permission_granted">Permission Granted!</string>
+    <string name="permission_denied">Permission Denied!</string>
+</resources>
